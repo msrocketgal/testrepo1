@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 0240-CC3E
+
+ Directory of C:\Users\msroc\OneDrive\Desktop\MyProject1
+
+01/27/2023  02:15 PM    <DIR>          .
+01/27/2023  02:09 PM    <DIR>          ..
+01/27/2023  02:15 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  162,851,483,648 bytes free
